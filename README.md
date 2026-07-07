@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Gautam</h1>
 
 <h3 align="center">
-Full Stack Developer • Data Analyst 
+Full Stack Developer • Data Analyst  • MERN Stack Developer
 </h3>
 
 <p align="center">
