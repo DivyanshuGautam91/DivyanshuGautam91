@@ -120,11 +120,8 @@ Full Stack Developer • Data Analyst  • MERN Stack Developer
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DivyanshuGautam91&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DivyanshuGautam91&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 📊 Contribution Graph
