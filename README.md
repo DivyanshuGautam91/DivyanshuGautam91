@@ -105,17 +105,6 @@ Full Stack Developer • Data Analyst  • MERN Stack Developer
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DivyanshuGautam91&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuGautam91&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -132,17 +121,6 @@ Full Stack Developer • Data Analyst  • MERN Stack Developer
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DivyanshuGautam91&theme=tokyonight&row=1&column=6&margin-w=15"/>
-
-</p>
-
----
 
 # 📈 Currently Learning
 
@@ -151,14 +129,6 @@ Full Stack Developer • Data Analyst  • MERN Stack Developer
 - 🤖 AI Integration
 - 📊 Advanced Data Analytics
 - 🧩 Data Structures & Algorithms
-
----
-
-# 💬 Quote
-
-> **"Code. Analyze. Learn. Repeat."**
-
----
 
 # 🐍 Contribution Snake
 
